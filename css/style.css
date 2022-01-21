@@ -1,0 +1,29 @@
+h1 {
+    color: blue;
+}
+
+.formsSection {
+    display: flex;
+    justify-content: space-between;
+}
+
+div {
+    margin-top: 30px;
+    display: flex;
+}
+
+label {
+    font-size: 15px;
+    font-style: bold;
+    font-family: roboto;
+    display: flex;
+}
+
+input {
+    display: flex;
+    margin-left: 20px;
+}
+
+.submit-div {
+    margin-left: 67px;
+}
